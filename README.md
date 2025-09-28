@@ -1,6 +1,9 @@
 In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
+🔗 [Click here to play the Emoji Game](https://emojigameak.ccbp.tech/)
+
 
 ### Refer to the image below:
+
 
 <br/>
 <div style="text-align: center;">
